@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\labs\os\lab3\lab3\source.cpp(437): warning C4293: '<<': shift count negative or too big, undefined behavior
+d:\labs\os\lab3\lab3\source.cpp(439): warning C4293: '<<': shift count negative or too big, undefined behavior
+  Lab3.vcxproj -> D:\Labs\OS\Lab3\Debug\Lab3.exe
+  Lab3.vcxproj -> D:\Labs\OS\Lab3\Debug\Lab3.pdb (Full PDB)
